@@ -5,13 +5,21 @@ The goal of this project is simple, take a photo of a pothole and when you map t
 ![image](https://user-images.githubusercontent.com/101364268/193881231-a3f2d128-5531-4527-a8be-8276c0cc6c2b.png)
 
 ---
+# Why I built this
 
-# How It's Made
+I have an absolute passion for urban planning. Walkability, bikeability, and public transit are very important for me. This project was a tad ambitious for me as I implemented the map and tried to get the pins to display on the map. 
 
-Tech Used: HTML, CSS, JS, Bootstrap
-Building this was quite the challenge. The hardest part was actually getting the map pins to show up as they were 
 
 ---
+
+# Built With
+
+- HTML
+- CSS
+- Javascript
+- Express
+- MongoDB
+- Node
 
 # Run
 
