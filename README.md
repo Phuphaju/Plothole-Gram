@@ -1,17 +1,15 @@
-# Install
+# Plothole-Gram
 
-`npm install`
+Welcome to Plothole-Gram!
+The goal of this project is simple, take a photo of a pothole and when you map the coordinates, it will show a pin of the location on the map.
+![image](https://user-images.githubusercontent.com/101364268/193881231-a3f2d128-5531-4527-a8be-8276c0cc6c2b.png)
 
 ---
 
-# Things to add
+# How It's Made
 
-- Create a `.env` file in config folder and add the following as `key = value`
-  - PORT = 2121 (can be any port example: 3000)
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
+Tech Used: HTML, CSS, JS, Bootstrap
+Building this was quite the challenge. The hardest part was actually getting the map pins to show up as they were 
 
 ---
 
